@@ -9,6 +9,8 @@ But it _may_ use html5 markup language and tricky css, but it's still ok, becaus
 
 The server side _is_ modern: **node.js** and hand-made **MVC**.
 
+It's **One-night project**, so don't expect the Amazon Web Store there.
+
 Requirements
 ------------
 * node.js
