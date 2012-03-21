@@ -24,9 +24,9 @@ exports.MarketModel =
     query:
     {
     },
-    db:
+    dataset:
     {
-        // Mock object, that mimics real DB view
+        // Mock object, that mimics real DB view/dataset
         items:
         [
             {
