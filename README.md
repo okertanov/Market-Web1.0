@@ -23,6 +23,19 @@ Running the server
     cd src
     node server.js
 
+Hosting platforms
+-----------------
+* [nodester.com](http://nodester.com/)
+* [no.de](http://no.de/)
+* [joyent.com](http://www.joyent.com/)
+
+TODO
+----
+* Split model and mock db
+* Remove static www files
+* Add vertical scrolling
+* Improve router
+
 License
 -------
 New BSD License (Modified BSD License). See "LICENSE" file.
