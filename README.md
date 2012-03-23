@@ -29,6 +29,8 @@ Hosting platforms
 * [no.de](http://no.de/)
 * [joyent.com](http://www.joyent.com/)
 
+See [Hosting compatible with Node](https://github.com/joyent/node/wiki/Node-Hosting)
+
 TODO
 ----
 * Split model and mock db
