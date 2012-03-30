@@ -38,6 +38,12 @@ TODO
 * Add vertical scrolling
 * Improve router
 
+Links
+-----
+[Nested lists - all steps combined](http://css.maxdesign.com.au/listutorial/sub_master.htm)
+
+[Research at MICA sidebar](http://www.mica.edu/Research_at_MICA.html)
+
 License
 -------
 New BSD License (Modified BSD License). See "LICENSE" file.
