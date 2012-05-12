@@ -121,6 +121,7 @@ section.navigation
 {
     float: left;
     width: 12%;
+    min-width: 166px;
     height: 90%;
 
     overflow-x: hidden;
